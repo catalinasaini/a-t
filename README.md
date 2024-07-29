@@ -1,4 +1,6 @@
-# Self-supervised Deep Normative Learning for the Detection of Subcortical Anomalies in Ataxia-Telangiectasia
+This is the GitHub repository for the project **Self-supervised Deep Normative Learning for the Detection of Subcortical Anomalies in Ataxia-Telangiectasia**.
+
+All analyses are included in the Jupyter Notebook _main.ipynb_, uploaded here.
 
 ## Abstract
 ### Purpose
